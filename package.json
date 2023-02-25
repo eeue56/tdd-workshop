@@ -1,0 +1,25 @@
+{
+  "name": "tdd-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx @eeue56/bach"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeue56/tdd-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eeue56/tdd-workshop/issues"
+  },
+  "homepage": "https://github.com/eeue56/tdd-workshop#readme",
+  "devDependencies": {
+    "@eeue56/bach": "^0.0.13",
+    "@eeue56/ts-assert": "^0.0.2",
+    "@types/node": "^18.14.1"
+  }
+}
