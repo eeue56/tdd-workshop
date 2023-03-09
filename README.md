@@ -47,6 +47,10 @@ A user may have multiple names. For example Erik Gustav Jacobsen. We only want t
 
 Users can also have titles. Typical titles include `Mr, Mrs, Miss, Ms, Mx, Dr`. Our app is targeted at doctors, who value their title quite highly. `Erik Gustav Jacobsen` should be greeted as `Dr Jacobsen`.
 
+#### Age
+
+Users can have a date of birth. Write a function that will display how long a user has been alive in words.
+
 ## Step 4 - snapshot tests
 
 Snapshot tests are a way of ensuring that a function consistently produces the same output as you are working.
