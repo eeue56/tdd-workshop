@@ -2,7 +2,7 @@
 
 ## Step 1 - installing and configuration
 
-Install everything with `npm install` or `ts-node`
+Install everything with `npm install` and `npm install -g ts-node`
 Run the test runner via `npm run test`
 
 The test runner looks in the `tsconfig.include` directories for any files ending with `_test.ts`. Inside each file found, any functions exported with a name beginning with `test` will be run. Be sure to set `tsconfig.include` to point to your source directory.
